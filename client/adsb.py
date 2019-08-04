@@ -110,6 +110,8 @@ def loop(oled, button):
                 pass
             except Exception as e:
                 report_error(oled, e)
+                # Return so we retry.
+                return
             else:
                 if resp is None:
                     continue
