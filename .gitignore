@@ -1,0 +1,4 @@
+client/deps
+client/venv
+server/data
+server/bin

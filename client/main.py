@@ -1,0 +1,3 @@
+import adsb
+
+adsb.main()
