@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/mjkillough/adsb-display/server/fetcher"
-	"github.com/mjkillough/adsb-display/server/opensky"
-	"github.com/mjkillough/adsb-display/server/virtualradar"
-	"github.com/mjkillough/adsb-display/server/ws"
+	"github.com/mjkillough/adsb-feather-display/server/fetcher"
+	"github.com/mjkillough/adsb-feather-display/server/opensky"
+	"github.com/mjkillough/adsb-feather-display/server/virtualradar"
+	"github.com/mjkillough/adsb-feather-display/server/ws"
 )
 
 var (

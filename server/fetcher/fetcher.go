@@ -6,8 +6,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/mjkillough/adsb-display/server/opensky"
-	"github.com/mjkillough/adsb-display/server/virtualradar"
+	"github.com/mjkillough/adsb-feather-display/server/opensky"
+	"github.com/mjkillough/adsb-feather-display/server/virtualradar"
 	"github.com/pkg/errors"
 )
 

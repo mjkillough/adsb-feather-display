@@ -1,4 +1,4 @@
-module github.com/mjkillough/adsb-display/server
+module github.com/mjkillough/adsb-feather-display/server
 
 go 1.12
 
